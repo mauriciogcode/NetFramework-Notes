@@ -1,0 +1,12 @@
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\EjemploNCapas.Datos\bin\Debug\EjemploNCapas.Datos.dll
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\EjemploNCapas.Datos\bin\Debug\EjemploNCapas.Datos.pdb
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\EjemploNCapas.Datos\obj\Debug\EjemploNCapas.Datos.csproj.AssemblyReference.cache
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\EjemploNCapas.Datos\obj\Debug\EjemploNCapas.Datos.csproj.CoreCompileInputs.cache
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\EjemploNCapas.Datos\obj\Debug\EjemploNCapas.Datos.dll
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\EjemploNCapas.Datos\obj\Debug\EjemploNCapas.Datos.pdb
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_1_2Capas\EjemploNCapas.Datos\bin\Debug\EjemploNCapas.Datos.dll
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_1_2Capas\EjemploNCapas.Datos\bin\Debug\EjemploNCapas.Datos.pdb
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_1_2Capas\EjemploNCapas.Datos\obj\Debug\EjemploNCapas.Datos.csproj.AssemblyReference.cache
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_1_2Capas\EjemploNCapas.Datos\obj\Debug\EjemploNCapas.Datos.csproj.CoreCompileInputs.cache
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_1_2Capas\EjemploNCapas.Datos\obj\Debug\EjemploNCapas.Datos.dll
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_1_2Capas\EjemploNCapas.Datos\obj\Debug\EjemploNCapas.Datos.pdb

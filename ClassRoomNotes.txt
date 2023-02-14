@@ -1,0 +1,335 @@
+//==============================================================================
+## Clase 01 ##
+Explicacion, de back. Promesa de api rest / capas / crud
+
+Capas
+La aplicaciones se empezaron a separar en capas / Por ejemplo App + Datos (db)
+
+- Capas de Aplicacion -
+
+1. Presentacion y/o interfaz, (Windows Form/Web/Movile)
+
+2. Logica de negocios, (Libreria de Clases)
+
+3. Acceso a datos, (Libreria de Clases)
+
+	- Normalmente Logica de negocios y Acceso a datos pueden ir juntas para dar lugar a que el front sea distinto
+	- Se llama Business Components / Capa de Componentes a las capas 2 y 3 juntas
+
+
+4. Entidades/querys, (Libreria de Clases)
+	- La entidades o querys atraviesan transversalmente a las tres anteriores.
+
+- Capa de Datos -
+Necesita una ip que no cambie.
+
+
+Frontend									      Backend
+Proyecto (Presentacion en cualquier plataforma) + Servidor ( Servicio (ej. apis o web services) + BC(LN + AD) + Base de Datos )
+
+//TODO: Arquitectura de software en Google
+
+//==============================================================================
+## Clase 02 ## Capas
+Presentacion, negocios, Acc a datos.
+Me permite separar e idenficar los problemas.
+Conocimiento de Aquitectura de soft.
+Todas ven la capa de entidades.
+
+Presentacion: interfaz
+
+Negocios: Donde van las validaciones / Es usada como pasamano / Puede darse que no exista
+
+Datos: Llega un solo dato a cambiar / insertar / traer / Libreria de clases (Class Library)
+
+La capa de datos hace un select y le devuelve a negocios un datatable
+La comunicacion entre las distintas capas es entre objetos
+
+1. Solucion en blanco / Proyecto Winforms y proy libreria de class (.net framework)
+2. Agrego referencia en la capa de Presentacion -> Y seleciono el proy.
+3. Siempre borrar el form 1
+4. Crear un frmNombreDelatabla (Agrego un dgv, lo acoplo, le cambio el nombre y selected mode full row select)
+5. Creo una clase de Acceso a datos en la capas de datos y la puso como public
+6. Lleno la clase DACComponenteDeAccesoDatos (ver clase)
+7. Relleno el dgv con info de la clase e invoco el metodo desde el load.
+
+
+//==============================================================================
+## Clase 02 ## - Parte 2
+Capas con Consola - Explicaciones varias
+
+Eplicacion sql client en net 5
+Ado no es compatible con net core. Pero si EF / Dapper
+
+Si bien la teoria dice que hay que programar sin pensar en que tipo de base de datos,
+en la practica no es viable. Cambiar de sqlserver a java es complicado, por ej.
+
+## Clase 03 ## - Parte 1
+El data table hasta ahora es con ado.
+Para pasar informacion entre capas y guardar usaremos:
+objetos si son muchos datos y parametros si son pocos
+
+- Clase se tilda -
+
+
+//==============================================================================
+Clase 04 -
+
+Agregar Biblioteca de clases / Fijarse carpeta y frame -> NCapas.BC -> Borra la clase por defecto.
+	Dentro crea una clase EjemploBC y la hace public
+	Ahi hace un metodo get all donde trae el objeto de DAC y retorna un datatable tambien
+
+Agregar Biblioteca de clases -> NCapas.DAC -> Borra la clase por defecto.
+	Dentro crea una clase EjemploDAC y la hace public
+		escribe un metodo datatable getall() -> si da error -> using o return: null
+		escribir toda la logica
+		return ds
+Agregar referencias...
+Luego en la presentacion agregamos el metodo...
+	Como no la hicimos statica la tenemos que instanciar como objeto
+	datatable = obj.metodo()
+Ese metodo lo pone en un try-catch ... con un show.mesage(error)
+
+ahora el insert
+para no hacer un chorizo de parametros hace una entidad en una nueva capa NCapas.Entities
+se hacen las propiedades
+ojo la referencia se hace desde las otras clases a entities y no al reves.
+
+
+
+
+
+
+//==============================================================================
+Clase 05 -
+//==============================================================================
+Clase 06 -
+-----------------------------
+
+CREATE PROCEDURE SP_EjemploInsert
+	@Nombre nvarchar(50),
+	@Descripcion nvarchar(50),
+	@TipoEjemplo int
+
+AS
+BEGIN
+
+	SET NOCOUNT ON;
+
+   INSERT into Ejemplo  (Nombre, Descripcion, TipoEjemplo) values (@Nombre, @Descripcion, @TipoEjemplo)
+END
+GO
+
+
+-----------------------------
+
+CREATE PROCEDURE SP_EjemploDelete
+	@Id int
+
+AS
+BEGIN
+
+	SET NOCOUNT ON;
+	DELETE from Ejemplo WHERE Id = @Id
+END
+GO
+
+-----------------------------
+
+CREATE PROCEDURE SP_EjemploUpdate
+	@Id int,
+	@Nombre nvarchar(50) = NULL,
+	@Descripcion nvarchar(50) = NULL,
+	@TipoEjemplo int
+AS
+BEGIN
+
+	SET NOCOUNT ON;
+
+	update Ejemplo
+	set Nombre = @Nombre,
+	Descripcion = @Descripcion,
+	TipoEjemplo = @TipoEjemplo
+	where Id =@Id;
+END
+GO
+
+
+-----------------------------
+
+CREATE PROCEDURE [dbo].[SP_EjemploGetAllInner]
+
+AS --
+BEGIN -- Comienza
+	-- SET NOCOUNT ON added to prevent extra result sets from
+	-- interfering with SELECT statements.
+	SET NOCOUNT ON; -- Sirve para que no me devuelva un log de lo realizado
+
+	-- Insert statements for procedure here
+	SELECT e.Id, e.Nombre, e.Descripcion, t.Nombre as TipoEjemplo,e.TipoEjemplo as IdTipoEjemplo FROM Ejemplo as e INNER JOIN TipoEjemplo as t on t.Id = e.TipoEjemplo
+END -- Termina
+GO
+
+
+
+//==============================================================================
+Clase 07 -
+
+ALTER PROCEDURE [dbo].[SP_EjemploGetId]
+	@Id int
+AS --
+BEGIN -- Comienza
+	-- SET NOCOUNT ON added to prevent extra result sets from
+	-- interfering with SELECT statements.
+	SET NOCOUNT ON; -- Sirve para que no me devuelva un log de lo realizado
+
+	-- Insert statements for procedure here
+	SELECT * from Ejemplo where (Id = @Id or Id is NULL)
+END -- Termina
+
+
+-----------------------------
+ALTER PROCEDURE [dbo].[SP_EjemploGetParam]
+	@Id int = NULL,
+	@TipoEjemplo int = NULL
+AS --
+BEGIN -- Comienza
+	-- SET NOCOUNT ON added to prevent extra result sets from
+	-- interfering with SELECT statements.
+	SET NOCOUNT ON; -- Sirve para que no me devuelva un log de lo realizado
+
+	-- Insert statements for procedure here
+	SELECT * from Ejemplo where (Id = @Id or @Id is NULL) and (TipoEjemplo = @TipoEjemplo or @TipoEjemplo is NULL)
+END -- Termina
+
+-----------------------------
+CLASES POS PARCIAL PASO EL PARCIAL
+//==============================================================================
+Clase 08 -
+
+Boton que se cambie de otra base
+Ejemplo sacado de la provincia
+
+ALTER PROCEDURE [dbo].[EmpleadoMigrar_Insert]
+	-- Add the parameters for the stored procedure here
+	@Legajo int,
+	@CUIL nvarchar(11),
+	@Nombre nvarchar(100),
+	@Apellido nvarchar(100),
+	@Sexo nvarchar(1),
+	@FechaNac DateTime,
+	@FechaAlta DateTime
+
+AS
+BEGIN
+	-- SET NOCOUNT ON added to prevent extra result sets from
+	-- interfering with SELECT statements.
+	SET NOCOUNT ON;
+
+	-- Insert statements for procedure here
+	insert into EmpleadosMigrados(Legajo, Cuil, Nombre, Apellido, Sexo, FechaNac, FechaAlta)
+	values (@Legajo,@CUIL,@Nombre,@Apellido,@Sexo,@FechaNac,GETDATE())
+END
+--------------------------------------
+
+CREATE PROCEDURE Empleado_Update_Estado
+	-- Add the parameters for the stored procedure here
+	@Legajo int
+AS
+BEGIN
+	-- SET NOCOUNT ON added to prevent extra result sets from
+	-- interfering with SELECT statements.
+	SET NOCOUNT ON;
+
+	-- Insert statements for procedure here
+	UPDATE Empleados set Estado = 1 where Legajo = @Legajo
+END
+GO
+
+
+
+//==============================================================================
+Clase 09 -
+
+Ultima tanda.
+Crea dos base de datso (cba) y (bs as)
+NO OLVIDAR LOS AUTO INCREMENTAL
+La unica diferencia entre tablas es que la original tiene una tabla estado.
+Y la copia no tiene estado pero si id. id de la tabla original
+Legajo es el primary en uno
+Id es el primary en otro
+
+Crea un sp
+
+
+
+//==============================================================================
+USE [Cba]
+GO
+/****** Object:  StoredProcedure [dbo].[EmpleadosGetMigrar]    Script Date: 10/11/2022 09:33:41 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+ALTER PROCEDURE [dbo].[EmpleadosGetMigrar]
+AS
+BEGIN
+	SET NOCOUNT ON;
+SELECT * from Empleados where Estado is null
+END
+
+//==============================================================================
+
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE PROCEDURE spEmpleadoMigrate_i
+	@Legajo int,
+	@CUIL nvarchar(11),
+	@Nombre nvarchar(100),
+	@Apellido nvarchar(100),
+	@Sexo nvarchar(1),
+	@FechaNac DateTime
+	AS
+BEGIN
+	SET NOCOUNT ON;
+
+	INSERT INTO EmpleadosMigrados(Legajo,Cuil,Nombre,Apellido,Sexo,FechaNac,FechaAlta)
+	values (@Legajo,@CUIL,@Nombre,@Apellido,@Sexo,@FechaNac,GETDATE())
+END
+GO
+//==============================================================================
+Se crea la solucion.
+Projecto AD, Nego, Enti,(lib de clases) Win. Consola(ojo con el nombre que es palabra reservada)
+borrar class1 y winforms
+Agrgar referencias
+Se remcompilan cada uno da las lib y fronts
+Creamos entidades Empleado y Empleado Migrado
+ 
+ Se arma windows form y funciones de botones
+
+ Se llena el acceso de datos con el get all -- Negocio get all -- Presentacion 
+ // La UNICA diferencia de lo de siempre es hacer INSTANCIAR EL OBJETO de forma global
+
+
+Edita propiedades del DGV  - FullRowSelect
+
+Necesito mandar de a uno. Tengo que pensar por donde mandarlo.  Por eso se hace en la logica de negocios.
+Se puede hacer un list y pasarlo. Pero en este caso pasaremos el datatable.
+
+
+Hace el insert usando sp
+
+Ojo con las cadenas de conexion. Son distintas en cada uno.
+
+Hace el acceso a dato de migrado. En la business hace un metodo foreach
+
+
+
+
+//==============================================================================
+Clase 10 -
+//==============================================================================
+

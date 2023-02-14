@@ -1,0 +1,2 @@
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\obj\Debug\EjemploNCapas.Datos.csproj.AssemblyReference.cache
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\obj\Debug\EjemploNCapas.Datos.csproj.CoreCompileInputs.cache

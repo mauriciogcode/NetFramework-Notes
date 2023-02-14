@@ -1,0 +1,6 @@
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Migracion.Entidades\bin\Debug\Migracion.Entidades.dll
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Migracion.Entidades\bin\Debug\Migracion.Entidades.pdb
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Migracion.Entidades\obj\Debug\Migracion.Entidades.csproj.AssemblyReference.cache
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Migracion.Entidades\obj\Debug\Migracion.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Migracion.Entidades\obj\Debug\Migracion.Entidades.dll
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Migracion.Entidades\obj\Debug\Migracion.Entidades.pdb

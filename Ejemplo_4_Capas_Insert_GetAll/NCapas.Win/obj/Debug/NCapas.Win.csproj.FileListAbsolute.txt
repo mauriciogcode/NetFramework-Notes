@@ -1,0 +1,10 @@
+C:\Users\mario.barrionuevo\Desktop\Programacion 4\ABM.NCapas\NCapas.Win\obj\Debug\NCapas.Win.csprojAssemblyReference.cache
+C:\Users\mario.barrionuevo\Desktop\Programacion 4\ABM.NCapas\NCapas.Win\obj\Debug\NCapas.Win.frmABM.resources
+C:\Users\mario.barrionuevo\Desktop\Programacion 4\ABM.NCapas\NCapas.Win\obj\Debug\NCapas.Win.Properties.Resources.resources
+C:\Users\mario.barrionuevo\Desktop\Programacion 4\ABM.NCapas\NCapas.Win\obj\Debug\NCapas.Win.csproj.GenerateResource.cache
+C:\Users\mario.barrionuevo\Desktop\Programacion 4\ABM.NCapas\NCapas.Win\obj\Debug\NCapas.Win.csproj.CoreCompileInputs.cache
+C:\Users\mario.barrionuevo\Desktop\Programacion 4\ABM.NCapas\NCapas.Win\bin\Debug\NCapas.Win.exe.config
+C:\Users\mario.barrionuevo\Desktop\Programacion 4\ABM.NCapas\NCapas.Win\bin\Debug\NCapas.Win.exe
+C:\Users\mario.barrionuevo\Desktop\Programacion 4\ABM.NCapas\NCapas.Win\bin\Debug\NCapas.Win.pdb
+C:\Users\mario.barrionuevo\Desktop\Programacion 4\ABM.NCapas\NCapas.Win\obj\Debug\NCapas.Win.exe
+C:\Users\mario.barrionuevo\Desktop\Programacion 4\ABM.NCapas\NCapas.Win\obj\Debug\NCapas.Win.pdb

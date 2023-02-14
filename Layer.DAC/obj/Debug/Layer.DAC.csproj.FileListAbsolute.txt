@@ -1,0 +1,9 @@
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Layer.DAC\bin\Debug\Layer.DAC.dll
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Layer.DAC\bin\Debug\Layer.DAC.pdb
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Layer.DAC\bin\Debug\Layer.Entities.dll
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Layer.DAC\bin\Debug\Layer.Entities.pdb
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Layer.DAC\obj\Debug\Layer.DAC.csproj.AssemblyReference.cache
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Layer.DAC\obj\Debug\Layer.DAC.csproj.CoreCompileInputs.cache
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Layer.DAC\obj\Debug\Layer.DAC.csproj.CopyComplete
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Layer.DAC\obj\Debug\Layer.DAC.dll
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Layer.DAC\obj\Debug\Layer.DAC.pdb

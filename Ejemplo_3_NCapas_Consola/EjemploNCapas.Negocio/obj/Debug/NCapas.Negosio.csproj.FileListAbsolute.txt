@@ -1,0 +1,6 @@
+C:\Users\mario.barrionuevo\Desktop\Programacion 4\Cervantes.NCapas\NCapas.Negosio\bin\Debug\NCapas.Negosio.dll
+C:\Users\mario.barrionuevo\Desktop\Programacion 4\Cervantes.NCapas\NCapas.Negosio\bin\Debug\NCapas.Negosio.pdb
+C:\Users\mario.barrionuevo\Desktop\Programacion 4\Cervantes.NCapas\NCapas.Negosio\obj\Debug\NCapas.Negosio.csprojAssemblyReference.cache
+C:\Users\mario.barrionuevo\Desktop\Programacion 4\Cervantes.NCapas\NCapas.Negosio\obj\Debug\NCapas.Negosio.csproj.CoreCompileInputs.cache
+C:\Users\mario.barrionuevo\Desktop\Programacion 4\Cervantes.NCapas\NCapas.Negosio\obj\Debug\NCapas.Negosio.dll
+C:\Users\mario.barrionuevo\Desktop\Programacion 4\Cervantes.NCapas\NCapas.Negosio\obj\Debug\NCapas.Negosio.pdb

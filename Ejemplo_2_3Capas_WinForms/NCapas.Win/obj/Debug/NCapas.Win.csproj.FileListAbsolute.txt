@@ -1,0 +1,59 @@
+C:\Users\mario.barrionuevo\Desktop\Programacion 4\Cervantes.NCapas\NCapas.Win\obj\Debug\NCapas.Win.csprojAssemblyReference.cache
+C:\Users\mario.barrionuevo\Desktop\Programacion 4\Cervantes.NCapas\NCapas.Win\obj\Debug\NCapas.Win.frmEjemploList.resources
+C:\Users\mario.barrionuevo\Desktop\Programacion 4\Cervantes.NCapas\NCapas.Win\obj\Debug\NCapas.Win.Properties.Resources.resources
+C:\Users\mario.barrionuevo\Desktop\Programacion 4\Cervantes.NCapas\NCapas.Win\obj\Debug\NCapas.Win.csproj.GenerateResource.cache
+C:\Users\mario.barrionuevo\Desktop\Programacion 4\Cervantes.NCapas\NCapas.Win\obj\Debug\NCapas.Win.csproj.CoreCompileInputs.cache
+C:\Users\mario.barrionuevo\Desktop\Programacion 4\Cervantes.NCapas\NCapas.Win\bin\Debug\NCapas.Win.exe.config
+C:\Users\mario.barrionuevo\Desktop\Programacion 4\Cervantes.NCapas\NCapas.Win\bin\Debug\NCapas.Win.exe
+C:\Users\mario.barrionuevo\Desktop\Programacion 4\Cervantes.NCapas\NCapas.Win\bin\Debug\NCapas.Win.pdb
+C:\Users\mario.barrionuevo\Desktop\Programacion 4\Cervantes.NCapas\NCapas.Win\bin\Debug\NCapas.Dato.dll
+C:\Users\mario.barrionuevo\Desktop\Programacion 4\Cervantes.NCapas\NCapas.Win\bin\Debug\NCapas.Dato.pdb
+C:\Users\mario.barrionuevo\Desktop\Programacion 4\Cervantes.NCapas\NCapas.Win\obj\Debug\NCapas.Win.csproj.CopyComplete
+C:\Users\mario.barrionuevo\Desktop\Programacion 4\Cervantes.NCapas\NCapas.Win\obj\Debug\NCapas.Win.exe
+C:\Users\mario.barrionuevo\Desktop\Programacion 4\Cervantes.NCapas\NCapas.Win\obj\Debug\NCapas.Win.pdb
+C:\Users\maugo\Dropbox\Apuntes__Cervantes\4to_Cuatrimestre\Programacion4\Unidad I\Cervantes.NCapas\Cervantes.NCapas\NCapas.Win\bin\Debug\NCapas.Win.exe.config
+C:\Users\maugo\Dropbox\Apuntes__Cervantes\4to_Cuatrimestre\Programacion4\Unidad I\Cervantes.NCapas\Cervantes.NCapas\NCapas.Win\bin\Debug\NCapas.Win.exe
+C:\Users\maugo\Dropbox\Apuntes__Cervantes\4to_Cuatrimestre\Programacion4\Unidad I\Cervantes.NCapas\Cervantes.NCapas\NCapas.Win\bin\Debug\NCapas.Win.pdb
+C:\Users\maugo\Dropbox\Apuntes__Cervantes\4to_Cuatrimestre\Programacion4\Unidad I\Cervantes.NCapas\Cervantes.NCapas\NCapas.Win\bin\Debug\NCapas.Dato.dll
+C:\Users\maugo\Dropbox\Apuntes__Cervantes\4to_Cuatrimestre\Programacion4\Unidad I\Cervantes.NCapas\Cervantes.NCapas\NCapas.Win\bin\Debug\NCapas.Dato.pdb
+C:\Users\maugo\Dropbox\Apuntes__Cervantes\4to_Cuatrimestre\Programacion4\Unidad I\Cervantes.NCapas\Cervantes.NCapas\NCapas.Win\obj\Debug\NCapas.Win.csproj.AssemblyReference.cache
+C:\Users\maugo\Dropbox\Apuntes__Cervantes\4to_Cuatrimestre\Programacion4\Unidad I\Cervantes.NCapas\Cervantes.NCapas\NCapas.Win\obj\Debug\NCapas.Win.csproj.SuggestedBindingRedirects.cache
+C:\Users\maugo\Dropbox\Apuntes__Cervantes\4to_Cuatrimestre\Programacion4\Unidad I\Cervantes.NCapas\Cervantes.NCapas\NCapas.Win\obj\Debug\NCapas.Win.frmEjemploList.resources
+C:\Users\maugo\Dropbox\Apuntes__Cervantes\4to_Cuatrimestre\Programacion4\Unidad I\Cervantes.NCapas\Cervantes.NCapas\NCapas.Win\obj\Debug\NCapas.Win.Properties.Resources.resources
+C:\Users\maugo\Dropbox\Apuntes__Cervantes\4to_Cuatrimestre\Programacion4\Unidad I\Cervantes.NCapas\Cervantes.NCapas\NCapas.Win\obj\Debug\NCapas.Win.csproj.GenerateResource.cache
+C:\Users\maugo\Dropbox\Apuntes__Cervantes\4to_Cuatrimestre\Programacion4\Unidad I\Cervantes.NCapas\Cervantes.NCapas\NCapas.Win\obj\Debug\NCapas.Win.csproj.CoreCompileInputs.cache
+C:\Users\maugo\Dropbox\Apuntes__Cervantes\4to_Cuatrimestre\Programacion4\Unidad I\Cervantes.NCapas\Cervantes.NCapas\NCapas.Win\obj\Debug\NCapas.Win.csproj.CopyComplete
+C:\Users\maugo\Dropbox\Apuntes__Cervantes\4to_Cuatrimestre\Programacion4\Unidad I\Cervantes.NCapas\Cervantes.NCapas\NCapas.Win\obj\Debug\NCapas.Win.exe
+C:\Users\maugo\Dropbox\Apuntes__Cervantes\4to_Cuatrimestre\Programacion4\Unidad I\Cervantes.NCapas\Cervantes.NCapas\NCapas.Win\obj\Debug\NCapas.Win.pdb
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_2_NCapas\NCapas.Win\bin\Debug\NCapas.Win.exe.config
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_2_NCapas\NCapas.Win\bin\Debug\NCapas.Win.exe
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_2_NCapas\NCapas.Win\bin\Debug\NCapas.Win.pdb
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_2_NCapas\NCapas.Win\bin\Debug\NCapas.Negosio.dll
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_2_NCapas\NCapas.Win\bin\Debug\NCapas.Dato.dll
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_2_NCapas\NCapas.Win\bin\Debug\NCapas.Negosio.pdb
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_2_NCapas\NCapas.Win\bin\Debug\NCapas.Dato.pdb
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_2_NCapas\NCapas.Win\obj\Debug\NCapas.Win.csproj.AssemblyReference.cache
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_2_NCapas\NCapas.Win\obj\Debug\NCapas.Win.csproj.SuggestedBindingRedirects.cache
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_2_NCapas\NCapas.Win\obj\Debug\NCapas.Win.frmEjemploList.resources
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_2_NCapas\NCapas.Win\obj\Debug\NCapas.Win.Properties.Resources.resources
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_2_NCapas\NCapas.Win\obj\Debug\NCapas.Win.csproj.GenerateResource.cache
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_2_NCapas\NCapas.Win\obj\Debug\NCapas.Win.csproj.CoreCompileInputs.cache
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_2_NCapas\NCapas.Win\obj\Debug\NCapas.Win.csproj.CopyComplete
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_2_NCapas\NCapas.Win\obj\Debug\NCapas.Win.exe
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_2_NCapas\NCapas.Win\obj\Debug\NCapas.Win.pdb
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_2_3Capas_WinForms\NCapas.Win\bin\Debug\NCapas.Win.exe.config
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_2_3Capas_WinForms\NCapas.Win\bin\Debug\NCapas.Win.exe
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_2_3Capas_WinForms\NCapas.Win\bin\Debug\NCapas.Win.pdb
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_2_3Capas_WinForms\NCapas.Win\bin\Debug\NCapas.Negosio.dll
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_2_3Capas_WinForms\NCapas.Win\bin\Debug\NCapas.Dato.dll
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_2_3Capas_WinForms\NCapas.Win\bin\Debug\NCapas.Negosio.pdb
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_2_3Capas_WinForms\NCapas.Win\bin\Debug\NCapas.Dato.pdb
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_2_3Capas_WinForms\NCapas.Win\obj\Debug\NCapas.Win.csproj.AssemblyReference.cache
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_2_3Capas_WinForms\NCapas.Win\obj\Debug\NCapas.Win.csproj.SuggestedBindingRedirects.cache
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_2_3Capas_WinForms\NCapas.Win\obj\Debug\NCapas.Win.frmEjemploList.resources
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_2_3Capas_WinForms\NCapas.Win\obj\Debug\NCapas.Win.Properties.Resources.resources
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_2_3Capas_WinForms\NCapas.Win\obj\Debug\NCapas.Win.csproj.GenerateResource.cache
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_2_3Capas_WinForms\NCapas.Win\obj\Debug\NCapas.Win.csproj.CoreCompileInputs.cache
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_2_3Capas_WinForms\NCapas.Win\obj\Debug\NCapas.Win.csproj.CopyComplete
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_2_3Capas_WinForms\NCapas.Win\obj\Debug\NCapas.Win.exe
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_2_3Capas_WinForms\NCapas.Win\obj\Debug\NCapas.Win.pdb

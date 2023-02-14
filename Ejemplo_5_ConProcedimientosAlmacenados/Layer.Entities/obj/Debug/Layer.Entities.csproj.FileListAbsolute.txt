@@ -1,0 +1,12 @@
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Layer.Entities\bin\Debug\Layer.Entities.dll
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Layer.Entities\bin\Debug\Layer.Entities.pdb
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Layer.Entities\obj\Debug\Layer.Entities.csproj.AssemblyReference.cache
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Layer.Entities\obj\Debug\Layer.Entities.csproj.CoreCompileInputs.cache
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Layer.Entities\obj\Debug\Layer.Entities.dll
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Layer.Entities\obj\Debug\Layer.Entities.pdb
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_5_ConProcedimientosAlmacenados\Layer.Entities\bin\Debug\Layer.Entities.dll
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_5_ConProcedimientosAlmacenados\Layer.Entities\bin\Debug\Layer.Entities.pdb
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_5_ConProcedimientosAlmacenados\Layer.Entities\obj\Debug\Layer.Entities.csproj.AssemblyReference.cache
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_5_ConProcedimientosAlmacenados\Layer.Entities\obj\Debug\Layer.Entities.csproj.CoreCompileInputs.cache
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_5_ConProcedimientosAlmacenados\Layer.Entities\obj\Debug\Layer.Entities.dll
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_5_ConProcedimientosAlmacenados\Layer.Entities\obj\Debug\Layer.Entities.pdb

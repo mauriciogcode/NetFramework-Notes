@@ -1,0 +1,6 @@
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_3_NCapas_Consola\EjemploNCapas.Dato\bin\Debug\NCapas.Dato.dll
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_3_NCapas_Consola\EjemploNCapas.Dato\bin\Debug\NCapas.Dato.pdb
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_3_NCapas_Consola\EjemploNCapas.Dato\obj\Debug\Ejemplo_3_Capas.Datos.csproj.AssemblyReference.cache
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_3_NCapas_Consola\EjemploNCapas.Dato\obj\Debug\Ejemplo_3_Capas.Datos.csproj.CoreCompileInputs.cache
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_3_NCapas_Consola\EjemploNCapas.Dato\obj\Debug\NCapas.Dato.dll
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_3_NCapas_Consola\EjemploNCapas.Dato\obj\Debug\NCapas.Dato.pdb

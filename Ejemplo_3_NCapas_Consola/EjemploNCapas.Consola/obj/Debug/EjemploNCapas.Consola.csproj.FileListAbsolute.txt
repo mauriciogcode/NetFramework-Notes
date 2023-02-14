@@ -1,0 +1,8 @@
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_3_NCapas_Consola\EjemploNCapas.Consola\bin\Debug\EjemploNCapas.Consola.exe.config
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_3_NCapas_Consola\EjemploNCapas.Consola\bin\Debug\EjemploNCapas.Consola.exe
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_3_NCapas_Consola\EjemploNCapas.Consola\bin\Debug\EjemploNCapas.Consola.pdb
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_3_NCapas_Consola\EjemploNCapas.Consola\obj\Debug\EjemploNCapas.Consola.csproj.AssemblyReference.cache
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_3_NCapas_Consola\EjemploNCapas.Consola\obj\Debug\EjemploNCapas.Consola.csproj.SuggestedBindingRedirects.cache
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_3_NCapas_Consola\EjemploNCapas.Consola\obj\Debug\EjemploNCapas.Consola.csproj.CoreCompileInputs.cache
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_3_NCapas_Consola\EjemploNCapas.Consola\obj\Debug\EjemploNCapas.Consola.exe
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_3_NCapas_Consola\EjemploNCapas.Consola\obj\Debug\EjemploNCapas.Consola.pdb

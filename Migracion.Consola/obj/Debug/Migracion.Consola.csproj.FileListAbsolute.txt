@@ -1,0 +1,13 @@
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Migracion.Consola\bin\Debug\Migracion.Consola.exe.config
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Migracion.Consola\bin\Debug\Migracion.Consola.exe
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Migracion.Consola\bin\Debug\Migracion.Consola.pdb
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Migracion.Consola\bin\Debug\Migracion.BC.dll
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Migracion.Consola\bin\Debug\Migracion.Entidades.dll
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Migracion.Consola\bin\Debug\Migracion.BC.pdb
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Migracion.Consola\bin\Debug\Migracion.Entidades.pdb
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Migracion.Consola\obj\Debug\Migracion.Consola.csproj.AssemblyReference.cache
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Migracion.Consola\obj\Debug\Migracion.Consola.csproj.SuggestedBindingRedirects.cache
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Migracion.Consola\obj\Debug\Migracion.Consola.csproj.CoreCompileInputs.cache
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Migracion.Consola\obj\Debug\Migracion.Consola.csproj.CopyComplete
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Migracion.Consola\obj\Debug\Migracion.Consola.exe
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Migracion.Consola\obj\Debug\Migracion.Consola.pdb

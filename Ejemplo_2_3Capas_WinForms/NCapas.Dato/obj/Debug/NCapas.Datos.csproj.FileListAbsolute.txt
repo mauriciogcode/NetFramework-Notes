@@ -1,0 +1,11 @@
+C:\Users\mario.barrionuevo\Desktop\Programacion 4\Cervantes.NCapas\NCapas.Dato\bin\Debug\NCapas.Dato.dll
+C:\Users\mario.barrionuevo\Desktop\Programacion 4\Cervantes.NCapas\NCapas.Dato\bin\Debug\NCapas.Dato.pdb
+C:\Users\mario.barrionuevo\Desktop\Programacion 4\Cervantes.NCapas\NCapas.Dato\obj\Debug\NCapas.Datos.csproj.CoreCompileInputs.cache
+C:\Users\mario.barrionuevo\Desktop\Programacion 4\Cervantes.NCapas\NCapas.Dato\obj\Debug\NCapas.Dato.dll
+C:\Users\mario.barrionuevo\Desktop\Programacion 4\Cervantes.NCapas\NCapas.Dato\obj\Debug\NCapas.Dato.pdb
+C:\Users\maugo\Dropbox\Apuntes__Cervantes\4to_Cuatrimestre\Programacion4\Unidad I\Cervantes.NCapas\Cervantes.NCapas\NCapas.Dato\bin\Debug\NCapas.Dato.dll
+C:\Users\maugo\Dropbox\Apuntes__Cervantes\4to_Cuatrimestre\Programacion4\Unidad I\Cervantes.NCapas\Cervantes.NCapas\NCapas.Dato\bin\Debug\NCapas.Dato.pdb
+C:\Users\maugo\Dropbox\Apuntes__Cervantes\4to_Cuatrimestre\Programacion4\Unidad I\Cervantes.NCapas\Cervantes.NCapas\NCapas.Dato\obj\Debug\NCapas.Datos.csproj.AssemblyReference.cache
+C:\Users\maugo\Dropbox\Apuntes__Cervantes\4to_Cuatrimestre\Programacion4\Unidad I\Cervantes.NCapas\Cervantes.NCapas\NCapas.Dato\obj\Debug\NCapas.Datos.csproj.CoreCompileInputs.cache
+C:\Users\maugo\Dropbox\Apuntes__Cervantes\4to_Cuatrimestre\Programacion4\Unidad I\Cervantes.NCapas\Cervantes.NCapas\NCapas.Dato\obj\Debug\NCapas.Dato.dll
+C:\Users\maugo\Dropbox\Apuntes__Cervantes\4to_Cuatrimestre\Programacion4\Unidad I\Cervantes.NCapas\Cervantes.NCapas\NCapas.Dato\obj\Debug\NCapas.Dato.pdb

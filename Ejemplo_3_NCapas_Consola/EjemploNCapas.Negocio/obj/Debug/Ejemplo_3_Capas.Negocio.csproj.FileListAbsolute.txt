@@ -1,0 +1,9 @@
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_3_NCapas_Consola\EjemploNCapas.Negocio\bin\Debug\NCapas.Negosio.dll
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_3_NCapas_Consola\EjemploNCapas.Negocio\bin\Debug\NCapas.Negosio.pdb
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_3_NCapas_Consola\EjemploNCapas.Negocio\bin\Debug\NCapas.Dato.dll
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_3_NCapas_Consola\EjemploNCapas.Negocio\bin\Debug\NCapas.Dato.pdb
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_3_NCapas_Consola\EjemploNCapas.Negocio\obj\Debug\Ejemplo_3_Capas.Negocio.csproj.AssemblyReference.cache
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_3_NCapas_Consola\EjemploNCapas.Negocio\obj\Debug\Ejemplo_3_Capas.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_3_NCapas_Consola\EjemploNCapas.Negocio\obj\Debug\Ejemplo_3_Capas.Negocio.csproj.CopyComplete
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_3_NCapas_Consola\EjemploNCapas.Negocio\obj\Debug\NCapas.Negosio.dll
+C:\Users\maugo\Dropbox\Mis__Proyectos\Proyectos___Estudio\Programacion4_Backend_mb\Ejemplo_3_NCapas_Consola\EjemploNCapas.Negocio\obj\Debug\NCapas.Negosio.pdb
